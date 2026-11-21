@@ -1,0 +1,7237 @@
+{
+ "source": "map.af/postcodes (Afghanistan Post 6-digit codes)",
+ "scraped": "2026-11-21",
+ "provinces": [
+  {
+   "slug": "kabul",
+   "name_fa": "کابل",
+   "code": "10",
+   "capital_fa": "کابل",
+   "codes_count": 648
+  },
+  {
+   "slug": "parwan",
+   "name_fa": "پروان",
+   "code": "11",
+   "capital_fa": "چاریکار",
+   "codes_count": 16
+  },
+  {
+   "slug": "kapisa",
+   "name_fa": "کاپیسا",
+   "code": "12",
+   "capital_fa": "محمود راقی",
+   "codes_count": 11
+  },
+  {
+   "slug": "wardak",
+   "name_fa": "میدان وردک",
+   "code": "13",
+   "capital_fa": "میدان شهر",
+   "codes_count": 14
+  },
+  {
+   "slug": "logar",
+   "name_fa": "لوگر",
+   "code": "14",
+   "capital_fa": "پل علم",
+   "codes_count": 11
+  },
+  {
+   "slug": "panjshir",
+   "name_fa": "پنجشیر",
+   "code": "15",
+   "capital_fa": "بازارک",
+   "codes_count": 11
+  },
+  {
+   "slug": "bamyan",
+   "name_fa": "بامیان",
+   "code": "16",
+   "capital_fa": "بامیان",
+   "codes_count": 12
+  },
+  {
+   "slug": "balkh",
+   "name_fa": "بلخ",
+   "code": "17",
+   "capital_fa": "مزار شریف",
+   "codes_count": 29
+  },
+  {
+   "slug": "faryab",
+   "name_fa": "فاریاب",
+   "code": "18",
+   "capital_fa": "میمنه",
+   "codes_count": 29
+  },
+  {
+   "slug": "jawzjan",
+   "name_fa": "جوزجان",
+   "code": "19",
+   "capital_fa": "شبرغان",
+   "codes_count": 15
+  },
+  {
+   "slug": "samangan",
+   "name_fa": "سمنگان",
+   "code": "20",
+   "capital_fa": "ایبک",
+   "codes_count": 11
+  },
+  {
+   "slug": "sar-e-pol",
+   "name_fa": "سرپل",
+   "code": "21",
+   "capital_fa": "سرپل",
+   "codes_count": 16
+  },
+  {
+   "slug": "paktia",
+   "name_fa": "پکتیا",
+   "code": "22",
+   "capital_fa": "گردیز",
+   "codes_count": 21
+  },
+  {
+   "slug": "ghazni",
+   "name_fa": "غزنی",
+   "code": "23",
+   "capital_fa": "غزنی",
+   "codes_count": 25
+  },
+  {
+   "slug": "paktika",
+   "name_fa": "پکتیکا",
+   "code": "24",
+   "capital_fa": "شرنه",
+   "codes_count": 27
+  },
+  {
+   "slug": "khost",
+   "name_fa": "خوست",
+   "code": "25",
+   "capital_fa": "خوست",
+   "codes_count": 20
+  },
+  {
+   "slug": "nangarhar",
+   "name_fa": "ننگرهار",
+   "code": "26",
+   "capital_fa": "جلال‌آباد",
+   "codes_count": 35
+  },
+  {
+   "slug": "laghman",
+   "name_fa": "لغمان",
+   "code": "27",
+   "capital_fa": "مهترلام",
+   "codes_count": 17
+  },
+  {
+   "slug": "kunar",
+   "name_fa": "کنر",
+   "code": "28",
+   "capital_fa": "اسعدآباد",
+   "codes_count": 24
+  },
+  {
+   "slug": "nuristan",
+   "name_fa": "نورستان",
+   "code": "29",
+   "capital_fa": "پارون",
+   "codes_count": 11
+  },
+  {
+   "slug": "herat",
+   "name_fa": "هرات",
+   "code": "30",
+   "capital_fa": "هرات",
+   "codes_count": 133
+  },
+  {
+   "slug": "farah",
+   "name_fa": "فراه",
+   "code": "31",
+   "capital_fa": "فراه",
+   "codes_count": 20
+  },
+  {
+   "slug": "ghor",
+   "name_fa": "غور",
+   "code": "32",
+   "capital_fa": "فیروزکوه",
+   "codes_count": 17
+  },
+  {
+   "slug": "badghis",
+   "name_fa": "بادغیس",
+   "code": "33",
+   "capital_fa": "قلعه نو",
+   "codes_count": 16
+  },
+  {
+   "slug": "badakhshan",
+   "name_fa": "بدخشان",
+   "code": "34",
+   "capital_fa": "فیض‌آباد",
+   "codes_count": 37
+  },
+  {
+   "slug": "kunduz",
+   "name_fa": "کندز",
+   "code": "35",
+   "capital_fa": "کندز",
+   "codes_count": 19
+  },
+  {
+   "slug": "baghlan",
+   "name_fa": "بغلان",
+   "code": "36",
+   "capital_fa": "پل خمری",
+   "codes_count": 22
+  },
+  {
+   "slug": "takhar",
+   "name_fa": "تخار",
+   "code": "37",
+   "capital_fa": "تالقان",
+   "codes_count": 23
+  },
+  {
+   "slug": "kandahar",
+   "name_fa": "قندهار",
+   "code": "38",
+   "capital_fa": "قندهار",
+   "codes_count": 34
+  },
+  {
+   "slug": "helmand",
+   "name_fa": "هلمند",
+   "code": "39",
+   "capital_fa": "لشکرگاه",
+   "codes_count": 35
+  },
+  {
+   "slug": "zabul",
+   "name_fa": "زابل",
+   "code": "40",
+   "capital_fa": "قلات",
+   "codes_count": 16
+  },
+  {
+   "slug": "uruzgan",
+   "name_fa": "ارزگان",
+   "code": "41",
+   "capital_fa": "ترینکوت",
+   "codes_count": 10
+  },
+  {
+   "slug": "daykundi",
+   "name_fa": "دایکندی",
+   "code": "42",
+   "capital_fa": "نیلی",
+   "codes_count": 13
+  },
+  {
+   "slug": "nimroz",
+   "name_fa": "نیمروز",
+   "code": "43",
+   "capital_fa": "زرنج",
+   "codes_count": 10
+  }
+ ],
+ "total_codes": 699,
+ "codes": [
+  {
+   "code": "100101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "گذر ۱",
+   "lat": 34.50815,
+   "lng": 69.18936,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "گذر ۱",
+   "lat": 34.53136,
+   "lng": 69.13245,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "گذر ۱",
+   "lat": 34.51322,
+   "lng": 69.15819,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "گذر ۱",
+   "lat": 34.563,
+   "lng": 69.16055,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "گذر ۱",
+   "lat": 34.51834,
+   "lng": 69.11478,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "گذر ۱",
+   "lat": 34.49828,
+   "lng": 69.13981,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "گذر ۱",
+   "lat": 34.50628,
+   "lng": 69.15997,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "گذر ۱",
+   "lat": 34.51495,
+   "lng": 69.20228,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "100901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "گذر ۱",
+   "lat": 34.54135,
+   "lng": 69.29264,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "گذر ۱",
+   "lat": 34.53752,
+   "lng": 69.18492,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "گذر ۱",
+   "lat": 34.56765,
+   "lng": 69.14187,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101201",
+   "area_fa": "ناحیه ۱۲",
+   "sub_fa": "بلاک ۱",
+   "lat": 34.52049,
+   "lng": 69.30975,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101301",
+   "area_fa": "ناحیه ۱۳",
+   "sub_fa": "گذر ۱",
+   "lat": 34.51055,
+   "lng": 69.10209,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101401",
+   "area_fa": "ناحیه ۱۴",
+   "sub_fa": "گذر ۱",
+   "lat": 34.62399,
+   "lng": 68.93791,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101501",
+   "area_fa": "ناحیه ۱۵",
+   "sub_fa": "گذر ۱",
+   "lat": 34.56742,
+   "lng": 69.15088,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101601",
+   "area_fa": "ناحیه ۱۶",
+   "sub_fa": "گذر ۱",
+   "lat": 34.5214,
+   "lng": 69.19567,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101701",
+   "area_fa": "ناحیه ۱۷",
+   "sub_fa": "گذر ۱",
+   "lat": 34.54437,
+   "lng": 69.12085,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101801",
+   "area_fa": "ناحیه ۱۸",
+   "sub_fa": "گذر ۱",
+   "lat": 34.57457,
+   "lng": 69.25275,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "101901",
+   "area_fa": "ناحیه ۱۹",
+   "sub_fa": "گذر ۱",
+   "lat": 34.58753,
+   "lng": 69.43146,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "102001",
+   "area_fa": "ناحیه ۲۰",
+   "sub_fa": "گذر ۱",
+   "lat": 34.44981,
+   "lng": 69.19515,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "102101",
+   "area_fa": "ناحیه ۲۱",
+   "sub_fa": "گذر ۱",
+   "lat": 34.56484,
+   "lng": 69.40394,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "102201",
+   "area_fa": "ناحیه ۲۲",
+   "sub_fa": "گذر ۱",
+   "lat": 34.49037,
+   "lng": 69.28101,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105101",
+   "area_fa": "چهار آسیاب",
+   "sub_fa": "ولسوالی",
+   "lat": 34.39233,
+   "lng": 69.01331,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105201",
+   "area_fa": "موسهی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.37217,
+   "lng": 69.22635,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105301",
+   "area_fa": "بگرامی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.46515,
+   "lng": 69.40588,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105401",
+   "area_fa": "ده سبز",
+   "sub_fa": "ولسوالی",
+   "lat": 34.69281,
+   "lng": 69.29263,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105501",
+   "area_fa": "خاک جبار",
+   "sub_fa": "ولسوالی",
+   "lat": 34.3608,
+   "lng": 69.43296,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105601",
+   "area_fa": "سروبی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.52893,
+   "lng": 69.70267,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105701",
+   "area_fa": "قره باغ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.84899,
+   "lng": 69.17331,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105801",
+   "area_fa": "استالف",
+   "sub_fa": "ولسوالی",
+   "lat": 34.84837,
+   "lng": 69.02234,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "105901",
+   "area_fa": "فرزه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.79572,
+   "lng": 69.01507,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "106001",
+   "area_fa": "گلدره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.74901,
+   "lng": 69.00277,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "106101",
+   "area_fa": "شکردره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.67523,
+   "lng": 69.02753,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "106201",
+   "area_fa": "کلکان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.76094,
+   "lng": 69.1742,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "106301",
+   "area_fa": "میر بچه کوت",
+   "sub_fa": "ولسوالی",
+   "lat": 34.72482,
+   "lng": 69.12107,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "106401",
+   "area_fa": "پغمان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.51995,
+   "lng": 68.91818,
+   "province_code": "10",
+   "province_fa": "کابل",
+   "province_slug": "kabul"
+  },
+  {
+   "code": "110101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.03657,
+   "lng": 69.18413,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.99918,
+   "lng": 69.17363,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 35.04147,
+   "lng": 69.17835,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.99773,
+   "lng": 69.16321,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 35.04103,
+   "lng": 69.16523,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 35.00459,
+   "lng": 69.14853,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "110701",
+   "area_fa": "چاریکار",
+   "sub_fa": "",
+   "lat": 34.98212,
+   "lng": 69.14109,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115101",
+   "area_fa": "شیخ علی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.94692,
+   "lng": 68.42031,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115201",
+   "area_fa": "سرخ پارسا",
+   "sub_fa": "ولسوالی",
+   "lat": 34.76585,
+   "lng": 68.62559,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115301",
+   "area_fa": "غوربند",
+   "sub_fa": "ولسوالی",
+   "lat": 35.01034,
+   "lng": 68.78873,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115401",
+   "area_fa": "شینواری",
+   "sub_fa": "ولسوالی",
+   "lat": 35.11981,
+   "lng": 68.97039,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115501",
+   "area_fa": "سالنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.26873,
+   "lng": 69.15127,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115601",
+   "area_fa": "جبل السراج",
+   "sub_fa": "ولسوالی",
+   "lat": 35.12123,
+   "lng": 69.18833,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115701",
+   "area_fa": "بگرام",
+   "sub_fa": "ولسوالی",
+   "lat": 34.92385,
+   "lng": 69.32851,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115801",
+   "area_fa": "سیدخیل",
+   "sub_fa": "ولسوالی",
+   "lat": 35.0604,
+   "lng": 69.26738,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "115901",
+   "area_fa": "کوه صافی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.76027,
+   "lng": 69.47155,
+   "province_code": "11",
+   "province_fa": "پروان",
+   "province_slug": "parwan"
+  },
+  {
+   "code": "120101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.02348,
+   "lng": 69.37253,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "120201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 35.03281,
+   "lng": 69.33053,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "120301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 35.04939,
+   "lng": 69.35959,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "120401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 35.00978,
+   "lng": 69.3411,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "120501",
+   "area_fa": "محمود راقی",
+   "sub_fa": "",
+   "lat": 35.00172,
+   "lng": 69.42917,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125101",
+   "area_fa": "کوه بند",
+   "sub_fa": "ولسوالی",
+   "lat": 35.10389,
+   "lng": 69.46719,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125201",
+   "area_fa": "اله سای",
+   "sub_fa": "ولسوالی",
+   "lat": 34.91686,
+   "lng": 69.81449,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125301",
+   "area_fa": "حصه اول کوهستان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.13537,
+   "lng": 69.34291,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125401",
+   "area_fa": "حصه دوم کوهستان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.0703,
+   "lng": 69.32492,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125501",
+   "area_fa": "نجراب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.0446,
+   "lng": 69.6418,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "125601",
+   "area_fa": "تگاب",
+   "sub_fa": "ولسوالی",
+   "lat": 34.7949,
+   "lng": 69.66827,
+   "province_code": "12",
+   "province_fa": "کاپیسا",
+   "province_slug": "kapisa"
+  },
+  {
+   "code": "130101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.38256,
+   "lng": 68.85674,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "130201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.40651,
+   "lng": 68.8682,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "130301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.37476,
+   "lng": 68.86639,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "130401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.41141,
+   "lng": 68.90308,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "130501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 34.41927,
+   "lng": 68.8812,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "130601",
+   "area_fa": "میدان شهر",
+   "sub_fa": "",
+   "lat": 34.45367,
+   "lng": 68.81601,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135101",
+   "area_fa": "مدکز بهسود",
+   "sub_fa": "ولسوالی",
+   "lat": 34.38688,
+   "lng": 67.67714,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135201",
+   "area_fa": "حصه اول بهسود",
+   "sub_fa": "ولسوالی",
+   "lat": 34.51684,
+   "lng": 68.19666,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135301",
+   "area_fa": "جلریز",
+   "sub_fa": "ولسوالی",
+   "lat": 34.52156,
+   "lng": 68.5727,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135401",
+   "area_fa": "نرخ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.32869,
+   "lng": 68.76381,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135501",
+   "area_fa": "سید آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 33.91778,
+   "lng": 68.65618,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135601",
+   "area_fa": "چک",
+   "sub_fa": "ولسوالی",
+   "lat": 34.10803,
+   "lng": 68.5043,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135701",
+   "area_fa": "جغتو",
+   "sub_fa": "ولسوالی",
+   "lat": 33.82388,
+   "lng": 68.35064,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "135801",
+   "area_fa": "دایمیرداد",
+   "sub_fa": "ولسوالی",
+   "lat": 34.21402,
+   "lng": 68.30602,
+   "province_code": "13",
+   "province_fa": "میدان وردک",
+   "province_slug": "wardak"
+  },
+  {
+   "code": "140101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.05963,
+   "lng": 68.9953,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "140201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.02915,
+   "lng": 68.99735,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "140301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.01976,
+   "lng": 68.98057,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "140401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.09366,
+   "lng": 69.0434,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "140501",
+   "area_fa": "پل علم",
+   "sub_fa": "",
+   "lat": 33.97118,
+   "lng": 69.05535,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145101",
+   "area_fa": "محمدآغه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.20564,
+   "lng": 69.17944,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145201",
+   "area_fa": "ازره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.10706,
+   "lng": 69.62302,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145301",
+   "area_fa": "خوشی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.99256,
+   "lng": 69.28508,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145401",
+   "area_fa": "برکی برک",
+   "sub_fa": "ولسوالی",
+   "lat": 33.93256,
+   "lng": 68.89328,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145501",
+   "area_fa": "چرخ",
+   "sub_fa": "ولسوالی",
+   "lat": 33.82,
+   "lng": 68.91704,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "145601",
+   "area_fa": "خروار",
+   "sub_fa": "ولسوالی",
+   "lat": 33.69476,
+   "lng": 68.89408,
+   "province_code": "14",
+   "province_fa": "لوگر",
+   "province_slug": "logar"
+  },
+  {
+   "code": "150101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.28151,
+   "lng": 69.48353,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "150201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 35.30822,
+   "lng": 69.52052,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "150301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 35.34066,
+   "lng": 69.57207,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "150401",
+   "area_fa": "بازارک",
+   "sub_fa": "",
+   "lat": 35.38122,
+   "lng": 69.49784,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155101",
+   "area_fa": "پریان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.64872,
+   "lng": 70.04427,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155201",
+   "area_fa": "شُتل",
+   "sub_fa": "ولسوالی",
+   "lat": 35.29395,
+   "lng": 69.30264,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155301",
+   "area_fa": "رُخه",
+   "sub_fa": "ولسوالی",
+   "lat": 35.25463,
+   "lng": 69.48014,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155401",
+   "area_fa": "دره",
+   "sub_fa": "ولسوالی",
+   "lat": 35.26583,
+   "lng": 69.63707,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155501",
+   "area_fa": "خنج (حصه اول)",
+   "sub_fa": "ولسوالی",
+   "lat": 35.42956,
+   "lng": 69.78401,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155601",
+   "area_fa": "عنابه",
+   "sub_fa": "ولسوالی",
+   "lat": 35.22272,
+   "lng": 69.40327,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "155701",
+   "area_fa": "دره",
+   "sub_fa": "ولسوالی",
+   "lat": 35.22447,
+   "lng": 69.81903,
+   "province_code": "15",
+   "province_fa": "پنجشیر",
+   "province_slug": "panjshir"
+  },
+  {
+   "code": "160101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.80707,
+   "lng": 67.80984,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "160201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.8067,
+   "lng": 67.8417,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "160301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.82375,
+   "lng": 67.85848,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "160401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.83595,
+   "lng": 67.78423,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "160501",
+   "area_fa": "بامیان",
+   "sub_fa": "",
+   "lat": 34.79383,
+   "lng": 67.68067,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165101",
+   "area_fa": "یکاولنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.95662,
+   "lng": 67.08984,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165201",
+   "area_fa": "پنجاب",
+   "sub_fa": "ولسوالی",
+   "lat": 34.42008,
+   "lng": 66.91972,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165301",
+   "area_fa": "ورث",
+   "sub_fa": "ولسوالی",
+   "lat": 34.13739,
+   "lng": 66.98089,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165401",
+   "area_fa": "سیغان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.11751,
+   "lng": 67.61017,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165501",
+   "area_fa": "شیبر",
+   "sub_fa": "ولسوالی",
+   "lat": 34.89226,
+   "lng": 68.04178,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165601",
+   "area_fa": "کهمرد",
+   "sub_fa": "ولسوالی",
+   "lat": 35.35636,
+   "lng": 67.76953,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "165701",
+   "area_fa": "یکاولنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.0244,
+   "lng": 66.64948,
+   "province_code": "16",
+   "province_fa": "بامیان",
+   "province_slug": "bamyan"
+  },
+  {
+   "code": "170101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.67303,
+   "lng": 67.12436,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.71439,
+   "lng": 67.10026,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.71584,
+   "lng": 67.11832,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 36.69867,
+   "lng": 67.08299,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 36.67475,
+   "lng": 67.10523,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 36.68792,
+   "lng": 67.1354,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 36.72903,
+   "lng": 67.14317,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 36.73459,
+   "lng": 67.11565,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "170901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 36.72873,
+   "lng": 67.08997,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "171001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 36.69228,
+   "lng": 67.15773,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "171101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "",
+   "lat": 36.73833,
+   "lng": 67.30979,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "171201",
+   "area_fa": "ناحیه ۱۲",
+   "sub_fa": "",
+   "lat": 36.76274,
+   "lng": 67.23746,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "171102",
+   "area_fa": "نهر شاهی",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 36.70134,
+   "lng": 67.21838,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175101",
+   "area_fa": "بلخ",
+   "sub_fa": "ولسوالی",
+   "lat": 36.81394,
+   "lng": 66.89008,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175201",
+   "area_fa": "دولت آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 37.0672,
+   "lng": 66.94213,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175301",
+   "area_fa": "شور تیپه",
+   "sub_fa": "ولسوالی",
+   "lat": 37.256,
+   "lng": 66.80308,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175401",
+   "area_fa": "نهر شاهی",
+   "sub_fa": "ولسوالی",
+   "lat": 36.82498,
+   "lng": 67.20463,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175501",
+   "area_fa": "کلدار",
+   "sub_fa": "ولسوالی",
+   "lat": 37.13935,
+   "lng": 67.564,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175502",
+   "area_fa": "شهرک حیرتان",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 37.19445,
+   "lng": 67.40786,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175701",
+   "area_fa": "مارمُل",
+   "sub_fa": "ولسوالی",
+   "lat": 36.53948,
+   "lng": 67.37456,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175801",
+   "area_fa": "چار کنت",
+   "sub_fa": "ولسوالی",
+   "lat": 36.36093,
+   "lng": 67.23883,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "175901",
+   "area_fa": "دهدادی",
+   "sub_fa": "ولسوالی",
+   "lat": 36.63948,
+   "lng": 67.00994,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176001",
+   "area_fa": "چمتال",
+   "sub_fa": "ولسوالی",
+   "lat": 36.61542,
+   "lng": 66.70905,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176101",
+   "area_fa": "چار بولک",
+   "sub_fa": "ولسوالی",
+   "lat": 36.81679,
+   "lng": 66.62682,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176201",
+   "area_fa": "شولگره",
+   "sub_fa": "ولسوالی",
+   "lat": 36.27903,
+   "lng": 66.83466,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176301",
+   "area_fa": "کشنده",
+   "sub_fa": "ولسوالی",
+   "lat": 35.95789,
+   "lng": 66.94455,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176401",
+   "area_fa": "زاری",
+   "sub_fa": "ولسوالی",
+   "lat": 35.86876,
+   "lng": 66.71319,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176501",
+   "area_fa": "دولت آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 37.07189,
+   "lng": 66.61523,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "176601",
+   "area_fa": "چمتال",
+   "sub_fa": "ولسوالی",
+   "lat": 36.45844,
+   "lng": 66.53031,
+   "province_code": "17",
+   "province_fa": "بلخ",
+   "province_slug": "balkh"
+  },
+  {
+   "code": "180101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.91905,
+   "lng": 64.80667,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 35.91284,
+   "lng": 64.79405,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 35.91916,
+   "lng": 64.76988,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 35.93003,
+   "lng": 64.77914,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 35.91735,
+   "lng": 64.79942,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 35.90726,
+   "lng": 64.78321,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 35.90843,
+   "lng": 64.75947,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 35.92403,
+   "lng": 64.74602,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "180901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 35.94178,
+   "lng": 64.75013,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "181001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 35.89971,
+   "lng": 64.80354,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "181101",
+   "area_fa": "میمنه",
+   "sub_fa": "",
+   "lat": 35.94706,
+   "lng": 64.79044,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185101",
+   "area_fa": "خان چارباغ",
+   "sub_fa": "ولسوالی",
+   "lat": 37.11139,
+   "lng": 65.22961,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185201",
+   "area_fa": "اندخوی",
+   "sub_fa": "ولسوالی",
+   "lat": 36.85459,
+   "lng": 65.28207,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185301",
+   "area_fa": "قرغان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.03613,
+   "lng": 64.9422,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185401",
+   "area_fa": "قرم قل",
+   "sub_fa": "ولسوالی",
+   "lat": 36.79217,
+   "lng": 64.96749,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185501",
+   "area_fa": "دولت آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.53849,
+   "lng": 65.05102,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185601",
+   "area_fa": "شیرین تگاب",
+   "sub_fa": "ولسوالی",
+   "lat": 36.26836,
+   "lng": 64.96029,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185701",
+   "area_fa": "کوهستان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.34384,
+   "lng": 65.0443,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185801",
+   "area_fa": "خواجه سبزپوش",
+   "sub_fa": "ولسوالی",
+   "lat": 36.05855,
+   "lng": 64.96585,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "185901",
+   "area_fa": "پشتون کوټ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.74865,
+   "lng": 64.8337,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186001",
+   "area_fa": "بلچراغ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.88033,
+   "lng": 65.44955,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186101",
+   "area_fa": "گرزیوان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.63427,
+   "lng": 65.28388,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186201",
+   "area_fa": "المار",
+   "sub_fa": "ولسوالی",
+   "lat": 35.96003,
+   "lng": 64.30617,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186301",
+   "area_fa": "قیصار",
+   "sub_fa": "ولسوالی",
+   "lat": 35.63269,
+   "lng": 64.23614,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186401",
+   "area_fa": "قیصار",
+   "sub_fa": "ولسوالی",
+   "lat": 35.85281,
+   "lng": 63.95141,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186501",
+   "area_fa": "پشتون کوټ",
+   "sub_fa": "ولسوالی",
+   "lat": 36.14493,
+   "lng": 64.57937,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186601",
+   "area_fa": "کوهستان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.29425,
+   "lng": 64.50418,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186701",
+   "area_fa": "المار",
+   "sub_fa": "ولسوالی",
+   "lat": 35.5741,
+   "lng": 64.54385,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "186801",
+   "area_fa": "پشتون کوټ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.88904,
+   "lng": 65.03498,
+   "province_code": "18",
+   "province_fa": "فاریاب",
+   "province_slug": "faryab"
+  },
+  {
+   "code": "190101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.65469,
+   "lng": 65.78684,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "190201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.68358,
+   "lng": 65.72635,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "190301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.64595,
+   "lng": 65.7415,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "190401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 36.68363,
+   "lng": 65.76898,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "190501",
+   "area_fa": "شبرغان",
+   "sub_fa": "",
+   "lat": 36.61481,
+   "lng": 65.76387,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195101",
+   "area_fa": "مردیان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.05512,
+   "lng": 66.30644,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195201",
+   "area_fa": "خمیاب",
+   "sub_fa": "ولسوالی",
+   "lat": 37.31784,
+   "lng": 65.728,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195301",
+   "area_fa": "خواجه دوکوه",
+   "sub_fa": "ولسوالی",
+   "lat": 36.94597,
+   "lng": 65.60132,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195401",
+   "area_fa": "خانقا",
+   "sub_fa": "ولسوالی",
+   "lat": 36.78573,
+   "lng": 66.07932,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195501",
+   "area_fa": "فیض آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.72999,
+   "lng": 66.37938,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195601",
+   "area_fa": "آقچه",
+   "sub_fa": "ولسوالی",
+   "lat": 36.71207,
+   "lng": 66.1942,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195701",
+   "area_fa": "قوش تیپه",
+   "sub_fa": "ولسوالی",
+   "lat": 36.21791,
+   "lng": 65.37301,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195801",
+   "area_fa": "درز آب",
+   "sub_fa": "ولسوالی",
+   "lat": 36.01327,
+   "lng": 65.36267,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "195901",
+   "area_fa": "منگجک",
+   "sub_fa": "ولسوالی",
+   "lat": 37.05211,
+   "lng": 65.98779,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "196001",
+   "area_fa": "قرقین",
+   "sub_fa": "ولسوالی",
+   "lat": 37.30089,
+   "lng": 66.0546,
+   "province_code": "19",
+   "province_fa": "جوزجان",
+   "province_slug": "jawzjan"
+  },
+  {
+   "code": "200101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.25844,
+   "lng": 68.02011,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "200201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.2647,
+   "lng": 68.03534,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "200301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.27895,
+   "lng": 68.04558,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "200401",
+   "area_fa": "ایبک",
+   "sub_fa": "",
+   "lat": 36.24805,
+   "lng": 68.1578,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205101",
+   "area_fa": "روی دو آب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.63897,
+   "lng": 67.81656,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205201",
+   "area_fa": "درۀ صوف بالا",
+   "sub_fa": "ولسوالی",
+   "lat": 35.63948,
+   "lng": 67.26307,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205301",
+   "area_fa": "درۀ صوف پائین",
+   "sub_fa": "ولسوالی",
+   "lat": 35.96538,
+   "lng": 67.32351,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205401",
+   "area_fa": "فیروز نخچیر",
+   "sub_fa": "ولسوالی",
+   "lat": 36.45263,
+   "lng": 67.61245,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205501",
+   "area_fa": "حضرت سلطان",
+   "sub_fa": "ولسوالی",
+   "lat": 36.34818,
+   "lng": 67.87058,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205601",
+   "area_fa": "خرم وسارباغ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.96772,
+   "lng": 68.08954,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "205701",
+   "area_fa": "خلم",
+   "sub_fa": "ولسوالی",
+   "lat": 36.8149,
+   "lng": 67.73084,
+   "province_code": "20",
+   "province_fa": "سمنگان",
+   "province_slug": "samangan"
+  },
+  {
+   "code": "210101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.21159,
+   "lng": 65.90117,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "210201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.21474,
+   "lng": 65.94138,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "210301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.22935,
+   "lng": 65.92417,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "210401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 36.24451,
+   "lng": 65.93314,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "210501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 36.24326,
+   "lng": 65.92004,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "210601",
+   "area_fa": "سرپل",
+   "sub_fa": "",
+   "lat": 36.1515,
+   "lng": 66.01764,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215101",
+   "area_fa": "کوهستانات",
+   "sub_fa": "ولسوالی",
+   "lat": 35.60743,
+   "lng": 65.74013,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215201",
+   "area_fa": "بلخاب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.45291,
+   "lng": 66.59475,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215301",
+   "area_fa": "سانچارك",
+   "sub_fa": "ولسوالی",
+   "lat": 35.9104,
+   "lng": 66.35272,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215401",
+   "area_fa": "سوزمه قلعه",
+   "sub_fa": "ولسوالی",
+   "lat": 36.03512,
+   "lng": 66.23514,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215501",
+   "area_fa": "گوسفندی",
+   "sub_fa": "ولسوالی",
+   "lat": 35.92768,
+   "lng": 66.54339,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215601",
+   "area_fa": "صیاد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.12349,
+   "lng": 65.72392,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215701",
+   "area_fa": "کوهستانات",
+   "sub_fa": "ولسوالی",
+   "lat": 35.64634,
+   "lng": 66.14424,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215801",
+   "area_fa": "کوهستانات",
+   "sub_fa": "ولسوالی",
+   "lat": 35.24529,
+   "lng": 66.033,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "215901",
+   "area_fa": "سرپل",
+   "sub_fa": "ولسوالی",
+   "lat": 36.32658,
+   "lng": 66.20464,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "216001",
+   "area_fa": "سرپل",
+   "sub_fa": "ولسوالی",
+   "lat": 36.3948,
+   "lng": 65.81308,
+   "province_code": "21",
+   "province_fa": "سرپل",
+   "province_slug": "sar-e-pol"
+  },
+  {
+   "code": "220101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 33.59395,
+   "lng": 69.22285,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 33.63205,
+   "lng": 69.23156,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 33.59886,
+   "lng": 69.20637,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 33.61391,
+   "lng": 69.26155,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 33.57718,
+   "lng": 69.23767,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 33.62989,
+   "lng": 69.20468,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "220701",
+   "area_fa": "گردیز",
+   "sub_fa": "",
+   "lat": 33.56048,
+   "lng": 69.19146,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225101",
+   "area_fa": "زُرمت",
+   "sub_fa": "ولسوالی",
+   "lat": 33.48794,
+   "lng": 68.94987,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225201",
+   "area_fa": "شواک",
+   "sub_fa": "ولسوالی",
+   "lat": 33.45549,
+   "lng": 69.36469,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225301",
+   "area_fa": "لجه احمد خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.76082,
+   "lng": 69.6419,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225401",
+   "area_fa": "سیدکرم",
+   "sub_fa": "ولسوالی",
+   "lat": 33.65629,
+   "lng": 69.45139,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225501",
+   "area_fa": "احمد آبا",
+   "sub_fa": "ولسوالی",
+   "lat": 33.76239,
+   "lng": 69.32345,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225601",
+   "area_fa": "لجه احمد خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.86901,
+   "lng": 69.60503,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225701",
+   "area_fa": "علی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.97762,
+   "lng": 69.67626,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225801",
+   "area_fa": "څمکنی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.79332,
+   "lng": 69.79693,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "225901",
+   "area_fa": "دند وپټان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.78007,
+   "lng": 69.92405,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "226001",
+   "area_fa": "جانی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.63559,
+   "lng": 69.81612,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "226101",
+   "area_fa": "حّدران",
+   "sub_fa": "ولسوالی",
+   "lat": 33.46088,
+   "lng": 69.48207,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "226201",
+   "area_fa": "سیدکرم",
+   "sub_fa": "ولسوالی",
+   "lat": 33.79744,
+   "lng": 69.48952,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "226301",
+   "area_fa": "حّدران",
+   "sub_fa": "ولسوالی",
+   "lat": 33.33034,
+   "lng": 69.34908,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "226401",
+   "area_fa": "زُرمت",
+   "sub_fa": "ولسوالی",
+   "lat": 33.34027,
+   "lng": 69.13141,
+   "province_code": "22",
+   "province_fa": "پکتیا",
+   "province_slug": "paktia"
+  },
+  {
+   "code": "230101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 33.5474,
+   "lng": 68.38923,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 33.59155,
+   "lng": 68.4413,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 33.51923,
+   "lng": 68.38899,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 33.55607,
+   "lng": 68.47022,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 33.51199,
+   "lng": 68.4328,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 33.60128,
+   "lng": 68.38652,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "230701",
+   "area_fa": "غزنی",
+   "sub_fa": "",
+   "lat": 33.51346,
+   "lng": 68.47855,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235101",
+   "area_fa": "ناوه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.32008,
+   "lng": 67.89569,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235201",
+   "area_fa": "گیلان",
+   "sub_fa": "ولسوالی",
+   "lat": 32.70655,
+   "lng": 67.66372,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235301",
+   "area_fa": "مقر",
+   "sub_fa": "ولسوالی",
+   "lat": 32.92798,
+   "lng": 67.77931,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235401",
+   "area_fa": "آب بند",
+   "sub_fa": "ولسوالی",
+   "lat": 32.8933,
+   "lng": 68.05847,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235501",
+   "area_fa": "گیرو",
+   "sub_fa": "ولسوالی",
+   "lat": 33.05978,
+   "lng": 68.34326,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235601",
+   "area_fa": "قره باغ",
+   "sub_fa": "ولسوالی",
+   "lat": 33.22462,
+   "lng": 67.98082,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235701",
+   "area_fa": "اندړ",
+   "sub_fa": "ولسوالی",
+   "lat": 33.30401,
+   "lng": 68.45332,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235801",
+   "area_fa": "ده یک",
+   "sub_fa": "ولسوالی",
+   "lat": 33.47534,
+   "lng": 68.65583,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "235901",
+   "area_fa": "زنه خان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.67813,
+   "lng": 68.66936,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236001",
+   "area_fa": "خواجه عمری",
+   "sub_fa": "ولسوالی",
+   "lat": 33.67727,
+   "lng": 68.41459,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236101",
+   "area_fa": "ولی محمد شهید",
+   "sub_fa": "ولسوالی",
+   "lat": 33.5629,
+   "lng": 68.29987,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236201",
+   "area_fa": "جغتو",
+   "sub_fa": "ولسوالی",
+   "lat": 33.56026,
+   "lng": 68.07805,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236301",
+   "area_fa": "واغظ",
+   "sub_fa": "ولسوالی",
+   "lat": 33.41343,
+   "lng": 68.19657,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236401",
+   "area_fa": "رشیدان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.69791,
+   "lng": 68.19421,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236501",
+   "area_fa": "ناور",
+   "sub_fa": "ولسوالی",
+   "lat": 33.83431,
+   "lng": 67.76173,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236601",
+   "area_fa": "جاغوری",
+   "sub_fa": "ولسوالی",
+   "lat": 33.1257,
+   "lng": 67.46761,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236701",
+   "area_fa": "اجرستان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.51624,
+   "lng": 67.11378,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "236801",
+   "area_fa": "مالستان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.29302,
+   "lng": 67.25157,
+   "province_code": "23",
+   "province_fa": "غزنی",
+   "province_slug": "ghazni"
+  },
+  {
+   "code": "240101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 33.15848,
+   "lng": 68.81837,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "240201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 33.13702,
+   "lng": 68.81905,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "240301",
+   "area_fa": "شرنه",
+   "sub_fa": "",
+   "lat": 33.21555,
+   "lng": 68.74172,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245101",
+   "area_fa": "تروو",
+   "sub_fa": "ولسوالی",
+   "lat": 31.89041,
+   "lng": 68.41588,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245201",
+   "area_fa": "اومنه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.90069,
+   "lng": 68.80547,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245301",
+   "area_fa": "دیله",
+   "sub_fa": "ولسوالی",
+   "lat": 32.63473,
+   "lng": 68.03009,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245401",
+   "area_fa": "وازه خواه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.19883,
+   "lng": 68.29895,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245501",
+   "area_fa": "گومل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.52174,
+   "lng": 68.76552,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245601",
+   "area_fa": "جانی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.74087,
+   "lng": 68.34823,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245701",
+   "area_fa": "زرغون شهر",
+   "sub_fa": "ولسوالی",
+   "lat": 32.87252,
+   "lng": 68.44956,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245801",
+   "area_fa": "یحی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.93224,
+   "lng": 68.65149,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "245901",
+   "area_fa": "متاخان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.2861,
+   "lng": 68.87962,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246001",
+   "area_fa": "یوسف خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.05739,
+   "lng": 68.63505,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246101",
+   "area_fa": "سرروضه (سرحوضه)",
+   "sub_fa": "ولسوالی",
+   "lat": 33.07245,
+   "lng": 69.04321,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246201",
+   "area_fa": "نیکه",
+   "sub_fa": "ولسوالی",
+   "lat": 33.20555,
+   "lng": 69.24285,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246301",
+   "area_fa": "زیړوک",
+   "sub_fa": "ولسوالی",
+   "lat": 33.14255,
+   "lng": 69.30065,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246401",
+   "area_fa": "ارگون",
+   "sub_fa": "ولسوالی",
+   "lat": 32.95853,
+   "lng": 69.20501,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246501",
+   "area_fa": "گیان",
+   "sub_fa": "ولسوالی",
+   "lat": 32.96698,
+   "lng": 69.40888,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246601",
+   "area_fa": "سروبی",
+   "sub_fa": "ولسوالی",
+   "lat": 32.76293,
+   "lng": 69.094,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246701",
+   "area_fa": "برمل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.7158,
+   "lng": 69.30419,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246801",
+   "area_fa": "وړ ممی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.92786,
+   "lng": 68.86101,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "246901",
+   "area_fa": "جانی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.61361,
+   "lng": 68.51646,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "247001",
+   "area_fa": "جانی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.72274,
+   "lng": 68.667,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "247101",
+   "area_fa": "گومل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.50719,
+   "lng": 69.1151,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "247201",
+   "area_fa": "گومل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.23974,
+   "lng": 69.03798,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "247301",
+   "area_fa": "گومل",
+   "sub_fa": "ولسوالی",
+   "lat": 32.84314,
+   "lng": 68.93429,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "247401",
+   "area_fa": "دیله",
+   "sub_fa": "ولسوالی",
+   "lat": 32.55217,
+   "lng": 68.23599,
+   "province_code": "24",
+   "province_fa": "پکتیکا",
+   "province_slug": "paktika"
+  },
+  {
+   "code": "250101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 33.31997,
+   "lng": 69.90583,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 33.33458,
+   "lng": 69.95193,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 33.36139,
+   "lng": 69.948,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 33.33564,
+   "lng": 69.89256,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 33.36767,
+   "lng": 69.90158,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 33.34686,
+   "lng": 69.86972,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 33.37083,
+   "lng": 69.99435,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "250801",
+   "area_fa": "خوست",
+   "sub_fa": "",
+   "lat": 33.32819,
+   "lng": 70.04726,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255101",
+   "area_fa": "سپیره",
+   "sub_fa": "ولسوالی",
+   "lat": 33.15727,
+   "lng": 69.49073,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255201",
+   "area_fa": "تنی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.19532,
+   "lng": 69.72837,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255301",
+   "area_fa": "شمل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.31466,
+   "lng": 69.53167,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255401",
+   "area_fa": "نادرشاه کوت",
+   "sub_fa": "ولسوالی",
+   "lat": 33.38328,
+   "lng": 69.6773,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255501",
+   "area_fa": "مندوزائی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.32606,
+   "lng": 69.79549,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255601",
+   "area_fa": "گربز",
+   "sub_fa": "ولسوالی",
+   "lat": 33.20108,
+   "lng": 69.93365,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255701",
+   "area_fa": "تری زائی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.38535,
+   "lng": 70.18859,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255801",
+   "area_fa": "باک",
+   "sub_fa": "ولسوالی",
+   "lat": 33.54089,
+   "lng": 70.04547,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "255901",
+   "area_fa": "صبری",
+   "sub_fa": "ولسوالی",
+   "lat": 33.50007,
+   "lng": 69.93909,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "256001",
+   "area_fa": "جاجی میدان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.6293,
+   "lng": 70.08618,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "256101",
+   "area_fa": "موسی خیل",
+   "sub_fa": "ولسوالی",
+   "lat": 33.55964,
+   "lng": 69.67661,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "256201",
+   "area_fa": "قلندر",
+   "sub_fa": "ولسوالی",
+   "lat": 33.50487,
+   "lng": 69.64992,
+   "province_code": "25",
+   "province_fa": "خوست",
+   "province_slug": "khost"
+  },
+  {
+   "code": "260101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.43325,
+   "lng": 70.47005,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.42186,
+   "lng": 70.45036,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.43728,
+   "lng": 70.43741,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.4164,
+   "lng": 70.46961,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 34.42357,
+   "lng": 70.43387,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 34.35435,
+   "lng": 70.45175,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 34.45199,
+   "lng": 70.39185,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 34.46351,
+   "lng": 70.45071,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "260901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 34.37543,
+   "lng": 70.52346,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "261001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 34.39117,
+   "lng": 70.43188,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "261101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "",
+   "lat": 34.31175,
+   "lng": 70.56151,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265101",
+   "area_fa": "حصارک",
+   "sub_fa": "ولسوالی",
+   "lat": 34.27911,
+   "lng": 69.7558,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265201",
+   "area_fa": "شیرزاد",
+   "sub_fa": "ولسوالی",
+   "lat": 34.1904,
+   "lng": 69.97358,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265301",
+   "area_fa": "خوگیانی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.24951,
+   "lng": 70.1077,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265401",
+   "area_fa": "پچیراگام",
+   "sub_fa": "ولسوالی",
+   "lat": 34.08678,
+   "lng": 70.29042,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265501",
+   "area_fa": "چپر هار",
+   "sub_fa": "ولسوالی",
+   "lat": 34.29424,
+   "lng": 70.36511,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265601",
+   "area_fa": "سرخ رود",
+   "sub_fa": "ولسوالی",
+   "lat": 34.39355,
+   "lng": 70.25335,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265701",
+   "area_fa": "بهسود",
+   "sub_fa": "ولسوالی",
+   "lat": 34.43982,
+   "lng": 70.54464,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265702",
+   "area_fa": "بهسود",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 34.40074,
+   "lng": 70.49893,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265801",
+   "area_fa": "کوز کنر",
+   "sub_fa": "ولسوالی",
+   "lat": 34.5571,
+   "lng": 70.6391,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "265901",
+   "area_fa": "دره نور",
+   "sub_fa": "ولسوالی",
+   "lat": 34.71072,
+   "lng": 70.58641,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266001",
+   "area_fa": "کامه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.44504,
+   "lng": 70.65642,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266101",
+   "area_fa": "رودات",
+   "sub_fa": "ولسوالی",
+   "lat": 34.24602,
+   "lng": 70.55202,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266201",
+   "area_fa": "ده بالا",
+   "sub_fa": "ولسوالی",
+   "lat": 34.08508,
+   "lng": 70.4552,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266301",
+   "area_fa": "اچین",
+   "sub_fa": "ولسوالی",
+   "lat": 34.03969,
+   "lng": 70.70228,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266401",
+   "area_fa": "کوټ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.16855,
+   "lng": 70.60468,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266501",
+   "area_fa": "نازیان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.04928,
+   "lng": 70.82043,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266601",
+   "area_fa": "دُر بابا",
+   "sub_fa": "ولسوالی",
+   "lat": 34.09731,
+   "lng": 70.95352,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266701",
+   "area_fa": "بتی کوټ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.30365,
+   "lng": 70.73205,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266801",
+   "area_fa": "مهمند دره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.2067,
+   "lng": 70.99177,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266802",
+   "area_fa": "مهمند دره",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 34.13003,
+   "lng": 71.0826,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "266901",
+   "area_fa": "شینوار",
+   "sub_fa": "ولسوالی",
+   "lat": 34.20418,
+   "lng": 70.80802,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "267001",
+   "area_fa": "لعل پور",
+   "sub_fa": "ولسوالی",
+   "lat": 34.3334,
+   "lng": 71.02383,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "267101",
+   "area_fa": "گوشته",
+   "sub_fa": "ولسوالی",
+   "lat": 34.45017,
+   "lng": 70.86458,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "267201",
+   "area_fa": "اچین",
+   "sub_fa": "ولسوالی",
+   "lat": 34.0748,
+   "lng": 70.61618,
+   "province_code": "26",
+   "province_fa": "ننگرهار",
+   "province_slug": "nangarhar"
+  },
+  {
+   "code": "270101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.67086,
+   "lng": 70.20817,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.6795,
+   "lng": 70.21225,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.68969,
+   "lng": 70.20981,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.69492,
+   "lng": 70.20245,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 34.70184,
+   "lng": 70.20579,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 34.70741,
+   "lng": 70.21368,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 34.69946,
+   "lng": 70.18986,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 34.69306,
+   "lng": 70.17894,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "270901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 34.68987,
+   "lng": 70.1899,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "271001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 34.68285,
+   "lng": 70.19334,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "271101",
+   "area_fa": "مهترلام",
+   "sub_fa": "",
+   "lat": 34.64441,
+   "lng": 70.20511,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275101",
+   "area_fa": "قرغه ئی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.53943,
+   "lng": 70.2203,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275201",
+   "area_fa": "علینگار",
+   "sub_fa": "ولسوالی",
+   "lat": 34.8226,
+   "lng": 70.41192,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275301",
+   "area_fa": "علیشنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.82576,
+   "lng": 70.07954,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275401",
+   "area_fa": "دولت شاه",
+   "sub_fa": "ولسوالی",
+   "lat": 35.03597,
+   "lng": 69.99843,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275501",
+   "area_fa": "مهتر لام",
+   "sub_fa": "ولسوالی",
+   "lat": 34.62983,
+   "lng": 69.93779,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "275601",
+   "area_fa": "دولت شاه",
+   "sub_fa": "ولسوالی",
+   "lat": 35.05065,
+   "lng": 69.941,
+   "province_code": "27",
+   "province_fa": "لغمان",
+   "province_slug": "laghman"
+  },
+  {
+   "code": "280101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.88999,
+   "lng": 71.12676,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.90313,
+   "lng": 71.16054,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.85776,
+   "lng": 71.11264,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.80281,
+   "lng": 71.09349,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 34.87685,
+   "lng": 71.17201,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 34.84596,
+   "lng": 71.14928,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 34.80987,
+   "lng": 71.13155,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "280801",
+   "area_fa": "اسعدآباد",
+   "sub_fa": "",
+   "lat": 34.93391,
+   "lng": 71.16934,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285101",
+   "area_fa": "خاص کنر",
+   "sub_fa": "ولسوالی",
+   "lat": 34.60817,
+   "lng": 70.90893,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285201",
+   "area_fa": "نورگل",
+   "sub_fa": "ولسوالی",
+   "lat": 34.69618,
+   "lng": 70.73336,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285301",
+   "area_fa": "چوکی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.74333,
+   "lng": 70.86844,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285401",
+   "area_fa": "نرنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.80316,
+   "lng": 71.00624,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285501",
+   "area_fa": "سرکانی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.70397,
+   "lng": 71.08372,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285601",
+   "area_fa": "مروره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.86197,
+   "lng": 71.23688,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285701",
+   "area_fa": "دانگام",
+   "sub_fa": "ولسوالی",
+   "lat": 35.0011,
+   "lng": 71.45007,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285801",
+   "area_fa": "برکنر",
+   "sub_fa": "ولسوالی",
+   "lat": 35.06083,
+   "lng": 71.37242,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "285901",
+   "area_fa": "ناړی",
+   "sub_fa": "ولسوالی",
+   "lat": 35.19045,
+   "lng": 71.5444,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286001",
+   "area_fa": "غازی آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 35.22846,
+   "lng": 71.3294,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286101",
+   "area_fa": "شیگل وشلتن",
+   "sub_fa": "ولسوالی",
+   "lat": 35.06146,
+   "lng": 71.20257,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286201",
+   "area_fa": "وته پور",
+   "sub_fa": "ولسوالی",
+   "lat": 34.98546,
+   "lng": 71.08405,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286301",
+   "area_fa": "دره پیچ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.92629,
+   "lng": 70.92446,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286401",
+   "area_fa": "چپه دره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.92055,
+   "lng": 70.72329,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286501",
+   "area_fa": "ناړی",
+   "sub_fa": "ولسوالی",
+   "lat": 35.29766,
+   "lng": 71.539,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "286601",
+   "area_fa": "شیگل وشلتن",
+   "sub_fa": "ولسوالی",
+   "lat": 34.93638,
+   "lng": 71.31264,
+   "province_code": "28",
+   "province_fa": "کنر",
+   "province_slug": "kunar"
+  },
+  {
+   "code": "290101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.31536,
+   "lng": 70.87062,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "290201",
+   "area_fa": "پارون",
+   "sub_fa": "",
+   "lat": 35.43747,
+   "lng": 70.92788,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295101",
+   "area_fa": "نورگرام",
+   "sub_fa": "ولسوالی",
+   "lat": 35.07549,
+   "lng": 70.47728,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295201",
+   "area_fa": "واما",
+   "sub_fa": "ولسوالی",
+   "lat": 35.10351,
+   "lng": 70.71691,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295301",
+   "area_fa": "وایگل",
+   "sub_fa": "ولسوالی",
+   "lat": 35.25739,
+   "lng": 71.05492,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295401",
+   "area_fa": "کامدیش",
+   "sub_fa": "ولسوالی",
+   "lat": 35.46613,
+   "lng": 71.34907,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295501",
+   "area_fa": "برگ متال",
+   "sub_fa": "ولسوالی",
+   "lat": 35.77499,
+   "lng": 71.25388,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295601",
+   "area_fa": "مندول",
+   "sub_fa": "ولسوالی",
+   "lat": 35.40453,
+   "lng": 70.24646,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295701",
+   "area_fa": "دو آب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.21523,
+   "lng": 70.36818,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295801",
+   "area_fa": "وایگل",
+   "sub_fa": "ولسوالی",
+   "lat": 35.08489,
+   "lng": 70.93573,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "295901",
+   "area_fa": "پرونس",
+   "sub_fa": "ولسوالی",
+   "lat": 35.3595,
+   "lng": 70.67918,
+   "province_code": "29",
+   "province_fa": "نورستان",
+   "province_slug": "nuristan"
+  },
+  {
+   "code": "300101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "گذر ۱",
+   "lat": 34.35199,
+   "lng": 62.20367,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34436,
+   "lng": 62.19484,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34483,
+   "lng": 62.20289,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34478,
+   "lng": 62.21152,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "گذر ۱",
+   "lat": 34.35294,
+   "lng": 62.19183,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34508,
+   "lng": 62.22034,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34587,
+   "lng": 62.18684,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "گذر ۱",
+   "lat": 34.35253,
+   "lng": 62.22302,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "300901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "گذر ۱",
+   "lat": 34.36046,
+   "lng": 62.18024,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "گذر ۱",
+   "lat": 34.32286,
+   "lng": 62.18689,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "گذر ۱",
+   "lat": 34.34745,
+   "lng": 62.24959,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301201",
+   "area_fa": "ناحیه ۱۲",
+   "sub_fa": "گذر ۱",
+   "lat": 34.36559,
+   "lng": 62.1817,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301301",
+   "area_fa": "ناحیه ۱۳",
+   "sub_fa": "گذر ۱",
+   "lat": 34.39332,
+   "lng": 62.15261,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301401",
+   "area_fa": "ناحیه ۱۴",
+   "sub_fa": "گذر ۱",
+   "lat": 34.33681,
+   "lng": 62.18844,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "301501",
+   "area_fa": "ناحیه ۱۵",
+   "sub_fa": "گذر ۱",
+   "lat": 34.35365,
+   "lng": 62.2344,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305101",
+   "area_fa": "غوریان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.16942,
+   "lng": 61.11314,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305201",
+   "area_fa": "کوهسان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.76425,
+   "lng": 61.29362,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305202",
+   "area_fa": "کوهسان",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 34.66148,
+   "lng": 61.10314,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305301",
+   "area_fa": "گلران",
+   "sub_fa": "ولسوالی",
+   "lat": 35.13905,
+   "lng": 61.6368,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305401",
+   "area_fa": "کُشک",
+   "sub_fa": "ولسوالی",
+   "lat": 34.98603,
+   "lng": 62.23445,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305402",
+   "area_fa": "کُشک",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 35.25718,
+   "lng": 62.28053,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305501",
+   "area_fa": "کُشک کهنه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.91439,
+   "lng": 62.62882,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305601",
+   "area_fa": "پشتون زرغون",
+   "sub_fa": "ولسوالی",
+   "lat": 34.15988,
+   "lng": 62.74507,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305701",
+   "area_fa": "کرُخ",
+   "sub_fa": "ولسوالی",
+   "lat": 34.50939,
+   "lng": 62.65906,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305801",
+   "area_fa": "اوبی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.36654,
+   "lng": 63.24612,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "305901",
+   "area_fa": "چشت شریف",
+   "sub_fa": "ولسوالی",
+   "lat": 34.39083,
+   "lng": 63.80845,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306001",
+   "area_fa": "فرسی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.84534,
+   "lng": 63.26969,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306101",
+   "area_fa": "انجیل",
+   "sub_fa": "ولسوالی",
+   "lat": 34.43928,
+   "lng": 62.17037,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306201",
+   "area_fa": "ادرسکن",
+   "sub_fa": "ولسوالی",
+   "lat": 33.70391,
+   "lng": 62.10074,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306301",
+   "area_fa": "شیندند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.35775,
+   "lng": 62.13905,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306401",
+   "area_fa": "زنده جان",
+   "sub_fa": "ولسوالی",
+   "lat": 34.28686,
+   "lng": 61.8225,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306501",
+   "area_fa": "گذره",
+   "sub_fa": "ولسوالی",
+   "lat": 34.03592,
+   "lng": 62.09166,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306601",
+   "area_fa": "شیندند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.0866,
+   "lng": 62.16329,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306701",
+   "area_fa": "شیندند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.18175,
+   "lng": 61.29371,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306801",
+   "area_fa": "شیندند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.3793,
+   "lng": 62.35755,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "306901",
+   "area_fa": "شیندند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.31608,
+   "lng": 62.81015,
+   "province_code": "30",
+   "province_fa": "هرات",
+   "province_slug": "herat"
+  },
+  {
+   "code": "310101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 32.37564,
+   "lng": 62.12577,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 32.37292,
+   "lng": 62.11844,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 32.36877,
+   "lng": 62.11199,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 32.36906,
+   "lng": 62.09953,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 32.35746,
+   "lng": 62.12333,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 32.36698,
+   "lng": 62.17232,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 32.32918,
+   "lng": 62.17181,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 32.32578,
+   "lng": 62.1379,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "310901",
+   "area_fa": "فراه",
+   "sub_fa": "",
+   "lat": 32.23321,
+   "lng": 62.20959,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315101",
+   "area_fa": "لاش جوین",
+   "sub_fa": "ولسوالی",
+   "lat": 31.71179,
+   "lng": 61.34855,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315201",
+   "area_fa": "شیب کوه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.1108,
+   "lng": 61.39066,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315301",
+   "area_fa": "قلعه کاه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.45255,
+   "lng": 61.21468,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315401",
+   "area_fa": "انار دره",
+   "sub_fa": "ولسوالی",
+   "lat": 32.69707,
+   "lng": 61.61708,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315501",
+   "area_fa": "خاک سفید",
+   "sub_fa": "ولسوالی",
+   "lat": 32.74976,
+   "lng": 62.0798,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315601",
+   "area_fa": "پشترود",
+   "sub_fa": "ولسوالی",
+   "lat": 32.50152,
+   "lng": 62.10038,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315701",
+   "area_fa": "بکواه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.19437,
+   "lng": 62.88432,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315801",
+   "area_fa": "بالا بلوک",
+   "sub_fa": "ولسوالی",
+   "lat": 32.5803,
+   "lng": 62.55516,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "315901",
+   "area_fa": "گلستان",
+   "sub_fa": "ولسوالی",
+   "lat": 32.5503,
+   "lng": 63.69005,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "316001",
+   "area_fa": "پُرچمن",
+   "sub_fa": "ولسوالی",
+   "lat": 33.14995,
+   "lng": 63.78228,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "316101",
+   "area_fa": "بالا بلوک",
+   "sub_fa": "ولسوالی",
+   "lat": 32.81918,
+   "lng": 62.99569,
+   "province_code": "31",
+   "province_fa": "فراه",
+   "province_slug": "farah"
+  },
+  {
+   "code": "320101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.51165,
+   "lng": 65.23807,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "320201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.52942,
+   "lng": 65.233,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "320301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.53309,
+   "lng": 65.26597,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "320401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.51475,
+   "lng": 65.26863,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "320501",
+   "area_fa": "فیروزکوه",
+   "sub_fa": "",
+   "lat": 34.53534,
+   "lng": 65.17475,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325101",
+   "area_fa": "ساغر",
+   "sub_fa": "ولسوالی",
+   "lat": 33.59754,
+   "lng": 63.71762,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325201",
+   "area_fa": "تیوره",
+   "sub_fa": "ولسوالی",
+   "lat": 33.50995,
+   "lng": 64.3823,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325301",
+   "area_fa": "پسابند",
+   "sub_fa": "ولسوالی",
+   "lat": 33.64351,
+   "lng": 65.11794,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325401",
+   "area_fa": "دو لینه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.11367,
+   "lng": 64.88447,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325501",
+   "area_fa": "دولت یار",
+   "sub_fa": "ولسوالی",
+   "lat": 34.58921,
+   "lng": 65.7782,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325601",
+   "area_fa": "لعل و سرجنگل",
+   "sub_fa": "ولسوالی",
+   "lat": 34.59487,
+   "lng": 66.27855,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325701",
+   "area_fa": "چار صد ره",
+   "sub_fa": "ولسوالی",
+   "lat": 35.12674,
+   "lng": 65.09445,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325801",
+   "area_fa": "شهرک",
+   "sub_fa": "ولسوالی",
+   "lat": 34.18257,
+   "lng": 64.32373,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "325901",
+   "area_fa": "تولک",
+   "sub_fa": "ولسوالی",
+   "lat": 34.02757,
+   "lng": 63.71021,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "326001",
+   "area_fa": "فیروزکوه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.99498,
+   "lng": 65.70812,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "326101",
+   "area_fa": "فیروزکوه",
+   "sub_fa": "ولسوالی",
+   "lat": 34.98447,
+   "lng": 64.8526,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "326201",
+   "area_fa": "جوند",
+   "sub_fa": "ولسوالی",
+   "lat": 34.74517,
+   "lng": 64.58806,
+   "province_code": "32",
+   "province_fa": "غور",
+   "province_slug": "ghor"
+  },
+  {
+   "code": "330101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 34.97787,
+   "lng": 63.13589,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 34.997,
+   "lng": 63.14169,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 34.97978,
+   "lng": 63.14898,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 34.99931,
+   "lng": 63.12136,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 35.02258,
+   "lng": 63.1344,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 34.96568,
+   "lng": 63.10379,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "330701",
+   "area_fa": "قلعه نو",
+   "sub_fa": "",
+   "lat": 34.79043,
+   "lng": 63.12027,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335101",
+   "area_fa": "آب کمری",
+   "sub_fa": "ولسوالی",
+   "lat": 34.9075,
+   "lng": 62.89913,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335201",
+   "area_fa": "بالا مرغاب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.57853,
+   "lng": 63.3793,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335301",
+   "area_fa": "غورماچ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.68958,
+   "lng": 63.76291,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335401",
+   "area_fa": "جوند",
+   "sub_fa": "ولسوالی",
+   "lat": 34.93716,
+   "lng": 64.2067,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335501",
+   "area_fa": "قادیس",
+   "sub_fa": "ولسوالی",
+   "lat": 34.77804,
+   "lng": 63.59263,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335601",
+   "area_fa": "مقر",
+   "sub_fa": "ولسوالی",
+   "lat": 35.06009,
+   "lng": 63.24574,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335701",
+   "area_fa": "بالا مرغاب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.22473,
+   "lng": 63.50973,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335801",
+   "area_fa": "آب کمری",
+   "sub_fa": "ولسوالی",
+   "lat": 35.24601,
+   "lng": 62.99641,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "335901",
+   "area_fa": "جوند",
+   "sub_fa": "ولسوالی",
+   "lat": 35.27919,
+   "lng": 63.9855,
+   "province_code": "33",
+   "province_fa": "بادغیس",
+   "province_slug": "badghis"
+  },
+  {
+   "code": "340101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 37.14245,
+   "lng": 70.60672,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 37.13641,
+   "lng": 70.56929,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 37.09117,
+   "lng": 70.60772,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 37.07129,
+   "lng": 70.5843,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 37.09029,
+   "lng": 70.55587,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 37.12856,
+   "lng": 70.51319,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 37.11117,
+   "lng": 70.53949,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 37.16971,
+   "lng": 70.5496,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "340901",
+   "area_fa": "فیض‌آباد",
+   "sub_fa": "",
+   "lat": 37.2386,
+   "lng": 70.62587,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345101",
+   "area_fa": "کران ومنجان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.90273,
+   "lng": 70.72828,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345201",
+   "area_fa": "یاوان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.52497,
+   "lng": 70.37919,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345301",
+   "area_fa": "تگاب",
+   "sub_fa": "ولسوالی",
+   "lat": 36.48248,
+   "lng": 70.34992,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345401",
+   "area_fa": "کشم",
+   "sub_fa": "ولسوالی",
+   "lat": 36.77132,
+   "lng": 70.13429,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345501",
+   "area_fa": "تشکان",
+   "sub_fa": "ولسوالی",
+   "lat": 36.76522,
+   "lng": 70.40193,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345601",
+   "area_fa": "درایم",
+   "sub_fa": "ولسوالی",
+   "lat": 36.87957,
+   "lng": 70.45194,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345701",
+   "area_fa": "ارگو",
+   "sub_fa": "ولسوالی",
+   "lat": 37.06218,
+   "lng": 70.42639,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345801",
+   "area_fa": "شهر بزرگ",
+   "sub_fa": "ولسوالی",
+   "lat": 37.33587,
+   "lng": 70.13687,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "345901",
+   "area_fa": "خواهان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.83601,
+   "lng": 70.39169,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346001",
+   "area_fa": "کوهستان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.42289,
+   "lng": 70.65654,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346101",
+   "area_fa": "راغستان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.66162,
+   "lng": 70.66675,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346201",
+   "area_fa": "خاش",
+   "sub_fa": "ولسوالی",
+   "lat": 36.9359,
+   "lng": 70.72669,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346301",
+   "area_fa": "کوف آب",
+   "sub_fa": "ولسوالی",
+   "lat": 37.9428,
+   "lng": 70.68712,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346401",
+   "area_fa": "شکی",
+   "sub_fa": "ولسوالی",
+   "lat": 38.20785,
+   "lng": 70.65325,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346501",
+   "area_fa": "درواز پائین (ما می )",
+   "sub_fa": "ولسوالی",
+   "lat": 38.22612,
+   "lng": 70.91285,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346601",
+   "area_fa": "دروازبالا ( نیسی)",
+   "sub_fa": "ولسوالی",
+   "lat": 38.08266,
+   "lng": 71.15703,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346701",
+   "area_fa": "شغنان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.6248,
+   "lng": 71.37845,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346801",
+   "area_fa": "ارغنچخواه",
+   "sub_fa": "ولسوالی",
+   "lat": 37.40986,
+   "lng": 70.99233,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "346901",
+   "area_fa": "شهدا",
+   "sub_fa": "ولسوالی",
+   "lat": 37.06981,
+   "lng": 71.17755,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347001",
+   "area_fa": "بهارک",
+   "sub_fa": "ولسوالی",
+   "lat": 37.02364,
+   "lng": 70.89227,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347101",
+   "area_fa": "جرم",
+   "sub_fa": "ولسوالی",
+   "lat": 36.7398,
+   "lng": 70.90674,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347201",
+   "area_fa": "وردوج",
+   "sub_fa": "ولسوالی",
+   "lat": 36.76333,
+   "lng": 71.14173,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347301",
+   "area_fa": "اشکاشم",
+   "sub_fa": "ولسوالی",
+   "lat": 36.82777,
+   "lng": 71.43559,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347401",
+   "area_fa": "زیباک",
+   "sub_fa": "ولسوالی",
+   "lat": 36.36666,
+   "lng": 71.29355,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347501",
+   "area_fa": "واخان",
+   "sub_fa": "ولسوالی",
+   "lat": 36.84752,
+   "lng": 72.54621,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347601",
+   "area_fa": "یمگان",
+   "sub_fa": "ولسوالی",
+   "lat": 36.43953,
+   "lng": 70.79247,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347701",
+   "area_fa": "یفتل سفلی",
+   "sub_fa": "ولسوالی",
+   "lat": 37.31241,
+   "lng": 70.37277,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "347801",
+   "area_fa": "واخان",
+   "sub_fa": "ولسوالی",
+   "lat": 37.17345,
+   "lng": 73.79508,
+   "province_code": "34",
+   "province_fa": "بدخشان",
+   "province_slug": "badakhshan"
+  },
+  {
+   "code": "350101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.69857,
+   "lng": 68.91253,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.68251,
+   "lng": 68.88163,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.74055,
+   "lng": 68.83819,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 36.71562,
+   "lng": 68.91631,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 36.67808,
+   "lng": 68.90849,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 36.76051,
+   "lng": 68.84032,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 36.68652,
+   "lng": 68.85696,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 36.74352,
+   "lng": 68.88845,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "350901",
+   "area_fa": "کندز",
+   "sub_fa": "",
+   "lat": 36.80037,
+   "lng": 68.89581,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355101",
+   "area_fa": "دشت ارچی",
+   "sub_fa": "ولسوالی",
+   "lat": 36.97688,
+   "lng": 69.17162,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355201",
+   "area_fa": "امام صاحب",
+   "sub_fa": "ولسوالی",
+   "lat": 37.10351,
+   "lng": 68.81482,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355202",
+   "area_fa": "امام صاحب",
+   "sub_fa": "ساحه سرحدی و گمرکی",
+   "lat": 37.18406,
+   "lng": 68.60736,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355301",
+   "area_fa": "قلعه ذال",
+   "sub_fa": "ولسوالی",
+   "lat": 36.88447,
+   "lng": 68.34755,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355401",
+   "area_fa": "چهار دره",
+   "sub_fa": "ولسوالی",
+   "lat": 36.6624,
+   "lng": 68.57405,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355501",
+   "area_fa": "علی آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.52075,
+   "lng": 68.82494,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355601",
+   "area_fa": "خان آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.57005,
+   "lng": 69.10847,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355701",
+   "area_fa": "امام صاحب",
+   "sub_fa": "ولسوالی",
+   "lat": 37.13188,
+   "lng": 69.11109,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355801",
+   "area_fa": "کندز",
+   "sub_fa": "ولسوالی",
+   "lat": 36.82169,
+   "lng": 68.7134,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "355901",
+   "area_fa": "خان آباد",
+   "sub_fa": "ولسوالی",
+   "lat": 36.80119,
+   "lng": 69.10673,
+   "province_code": "35",
+   "province_fa": "کندز",
+   "province_slug": "kunduz"
+  },
+  {
+   "code": "360101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 35.93182,
+   "lng": 68.71567,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 35.92948,
+   "lng": 68.727,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 35.9868,
+   "lng": 68.68164,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 35.97285,
+   "lng": 68.71485,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 36.01786,
+   "lng": 68.61043,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 36.05486,
+   "lng": 68.64791,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "360701",
+   "area_fa": "پل خمری",
+   "sub_fa": "",
+   "lat": 35.96927,
+   "lng": 68.75604,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365101",
+   "area_fa": "تاله وبرفک",
+   "sub_fa": "ولسوالی",
+   "lat": 35.26688,
+   "lng": 68.32266,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365201",
+   "area_fa": "دوشی",
+   "sub_fa": "ولسوالی",
+   "lat": 35.56479,
+   "lng": 68.66693,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365301",
+   "area_fa": "خنجان",
+   "sub_fa": "ولسوالی",
+   "lat": 35.4693,
+   "lng": 68.96769,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365401",
+   "area_fa": "اندراب",
+   "sub_fa": "ولسوالی",
+   "lat": 35.58586,
+   "lng": 69.18965,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365501",
+   "area_fa": "ده صلاح",
+   "sub_fa": "ولسوالی",
+   "lat": 35.74913,
+   "lng": 69.30026,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365601",
+   "area_fa": "خوست و فرنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 35.90561,
+   "lng": 69.66488,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365701",
+   "area_fa": "فرنگ وغارو",
+   "sub_fa": "ولسوالی",
+   "lat": 36.13862,
+   "lng": 69.68235,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365801",
+   "area_fa": "گذرگاه نور",
+   "sub_fa": "ولسوالی",
+   "lat": 36.23058,
+   "lng": 69.57392,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "365901",
+   "area_fa": "پل حصار",
+   "sub_fa": "ولسوالی",
+   "lat": 35.58512,
+   "lng": 69.55614,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366001",
+   "area_fa": "نهرین",
+   "sub_fa": "ولسوالی",
+   "lat": 35.98905,
+   "lng": 69.02097,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366101",
+   "area_fa": "بغلان جدید",
+   "sub_fa": "ولسوالی",
+   "lat": 36.27863,
+   "lng": 68.7213,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366201",
+   "area_fa": "خواجه هجران",
+   "sub_fa": "ولسوالی",
+   "lat": 35.96785,
+   "lng": 69.2929,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366301",
+   "area_fa": "دهنۀ غوری",
+   "sub_fa": "ولسوالی",
+   "lat": 35.81849,
+   "lng": 68.45158,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366401",
+   "area_fa": "بورکه",
+   "sub_fa": "ولسوالی",
+   "lat": 36.25418,
+   "lng": 69.1464,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "366501",
+   "area_fa": "پلخمری",
+   "sub_fa": "ولسوالی",
+   "lat": 36.04312,
+   "lng": 68.55457,
+   "province_code": "36",
+   "province_fa": "بغلان",
+   "province_slug": "baghlan"
+  },
+  {
+   "code": "370101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 36.71545,
+   "lng": 69.54508,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 36.75583,
+   "lng": 69.54792,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 36.74659,
+   "lng": 69.5297,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 36.7136,
+   "lng": 69.52068,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 36.74173,
+   "lng": 69.49439,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 36.72432,
+   "lng": 69.58784,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "370701",
+   "area_fa": "تالقان",
+   "sub_fa": "",
+   "lat": 36.73184,
+   "lng": 69.60473,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375101",
+   "area_fa": "ورسج",
+   "sub_fa": "ولسوالی",
+   "lat": 36.09545,
+   "lng": 70.14343,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375201",
+   "area_fa": "فرخار",
+   "sub_fa": "ولسوالی",
+   "lat": 36.47056,
+   "lng": 69.95522,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375301",
+   "area_fa": "کلفگان",
+   "sub_fa": "ولسوالی",
+   "lat": 36.78872,
+   "lng": 69.90818,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375401",
+   "area_fa": "رُستاق",
+   "sub_fa": "ولسوالی",
+   "lat": 37.10336,
+   "lng": 69.81687,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375501",
+   "area_fa": "چاه آب",
+   "sub_fa": "ولسوالی",
+   "lat": 37.44503,
+   "lng": 69.8827,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375601",
+   "area_fa": "بنگی",
+   "sub_fa": "ولسوالی",
+   "lat": 36.60461,
+   "lng": 69.35175,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375701",
+   "area_fa": "خواجه بهاوالدین",
+   "sub_fa": "ولسوالی",
+   "lat": 37.33796,
+   "lng": 69.56644,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375801",
+   "area_fa": "درقد",
+   "sub_fa": "ولسوالی",
+   "lat": 37.43013,
+   "lng": 69.47211,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "375901",
+   "area_fa": "دشت قلعه",
+   "sub_fa": "ولسوالی",
+   "lat": 37.19661,
+   "lng": 69.5085,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376001",
+   "area_fa": "خواجه غار",
+   "sub_fa": "ولسوالی",
+   "lat": 37.0301,
+   "lng": 69.40677,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376101",
+   "area_fa": "هزار سموچ",
+   "sub_fa": "ولسوالی",
+   "lat": 36.89868,
+   "lng": 69.60048,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376201",
+   "area_fa": "بهارک",
+   "sub_fa": "ولسوالی",
+   "lat": 36.8516,
+   "lng": 69.40783,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376301",
+   "area_fa": "چال",
+   "sub_fa": "ولسوالی",
+   "lat": 36.49022,
+   "lng": 69.57877,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376401",
+   "area_fa": "نمک آب",
+   "sub_fa": "ولسوالی",
+   "lat": 36.45358,
+   "lng": 69.71848,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376501",
+   "area_fa": "اشکمش",
+   "sub_fa": "ولسوالی",
+   "lat": 36.38068,
+   "lng": 69.36326,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "376601",
+   "area_fa": "ینگی قلعه",
+   "sub_fa": "ولسوالی",
+   "lat": 37.46291,
+   "lng": 69.65151,
+   "province_code": "37",
+   "province_fa": "تخار",
+   "province_slug": "takhar"
+  },
+  {
+   "code": "380101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 31.62119,
+   "lng": 65.69989,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 31.60749,
+   "lng": 65.69966,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 31.60278,
+   "lng": 65.72664,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 31.61709,
+   "lng": 65.72135,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380501",
+   "area_fa": "ناحیه ۵",
+   "sub_fa": "",
+   "lat": 31.59181,
+   "lng": 65.79727,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 31.59676,
+   "lng": 65.66852,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 31.59404,
+   "lng": 65.5987,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 31.62547,
+   "lng": 65.63204,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "380901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 31.65101,
+   "lng": 65.70693,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 31.62682,
+   "lng": 65.74607,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "",
+   "lat": 31.65194,
+   "lng": 65.79652,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381201",
+   "area_fa": "ناحیه ۱۲",
+   "sub_fa": "",
+   "lat": 31.66272,
+   "lng": 65.73069,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381301",
+   "area_fa": "ناحیه ۱۳",
+   "sub_fa": "",
+   "lat": 31.63905,
+   "lng": 65.68098,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381401",
+   "area_fa": "ناحیه ۱۴",
+   "sub_fa": "",
+   "lat": 31.62526,
+   "lng": 65.7225,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "381501",
+   "area_fa": "ناحیه ۱۵",
+   "sub_fa": "",
+   "lat": 31.58559,
+   "lng": 65.70042,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385101",
+   "area_fa": "ریگ ( شگه )",
+   "sub_fa": "ولسوالی",
+   "lat": 30.12309,
+   "lng": 65.17487,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385201",
+   "area_fa": "شور آبک",
+   "sub_fa": "ولسوالی",
+   "lat": 30.1704,
+   "lng": 66.04102,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385301",
+   "area_fa": "سپین بولدک",
+   "sub_fa": "ولسوالی",
+   "lat": 30.99034,
+   "lng": 66.33926,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385401",
+   "area_fa": "ارغستان",
+   "sub_fa": "ولسوالی",
+   "lat": 31.5401,
+   "lng": 66.58203,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385501",
+   "area_fa": "معروف",
+   "sub_fa": "ولسوالی",
+   "lat": 31.45416,
+   "lng": 67.23651,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385601",
+   "area_fa": "دامان",
+   "sub_fa": "ولسوالی",
+   "lat": 31.20411,
+   "lng": 65.77952,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385701",
+   "area_fa": "شاه ولی کوت",
+   "sub_fa": "ولسوالی",
+   "lat": 32.21081,
+   "lng": 66.06701,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385801",
+   "area_fa": "نیش",
+   "sub_fa": "ولسوالی",
+   "lat": 32.37063,
+   "lng": 65.71888,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "385901",
+   "area_fa": "خاکریز",
+   "sub_fa": "ولسوالی",
+   "lat": 32.0103,
+   "lng": 65.49828,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386001",
+   "area_fa": "ارغنداب",
+   "sub_fa": "ولسوالی",
+   "lat": 31.75249,
+   "lng": 65.63667,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386101",
+   "area_fa": "ژړۍ",
+   "sub_fa": "ولسوالی",
+   "lat": 31.63596,
+   "lng": 65.36034,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386201",
+   "area_fa": "میوند",
+   "sub_fa": "ولسوالی",
+   "lat": 31.54456,
+   "lng": 65.08084,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386301",
+   "area_fa": "پنجوائی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.07093,
+   "lng": 65.16422,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386401",
+   "area_fa": "میانشین",
+   "sub_fa": "ولسوالی",
+   "lat": 32.39732,
+   "lng": 66.33752,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386501",
+   "area_fa": "غورک",
+   "sub_fa": "ولسوالی",
+   "lat": 32.10924,
+   "lng": 65.20639,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386601",
+   "area_fa": "کندهار",
+   "sub_fa": "ولسوالی",
+   "lat": 31.47164,
+   "lng": 65.70532,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386701",
+   "area_fa": "سپین بولدک",
+   "sub_fa": "ولسوالی",
+   "lat": 31.01126,
+   "lng": 65.98881,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386801",
+   "area_fa": "شاه ولی کوت",
+   "sub_fa": "ولسوالی",
+   "lat": 31.95267,
+   "lng": 65.95127,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "386901",
+   "area_fa": "میوند",
+   "sub_fa": "ولسوالی",
+   "lat": 31.60913,
+   "lng": 64.8596,
+   "province_code": "38",
+   "province_fa": "قندهار",
+   "province_slug": "kandahar"
+  },
+  {
+   "code": "390101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 31.55566,
+   "lng": 64.37013,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 31.59219,
+   "lng": 64.36184,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 31.59948,
+   "lng": 64.37827,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 31.56751,
+   "lng": 64.39215,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390501",
+   "area_fa": "ناحیه ۱۵",
+   "sub_fa": "",
+   "lat": 31.59373,
+   "lng": 64.31066,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390601",
+   "area_fa": "ناحیه ۶",
+   "sub_fa": "",
+   "lat": 31.62751,
+   "lng": 64.35951,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390701",
+   "area_fa": "ناحیه ۷",
+   "sub_fa": "",
+   "lat": 31.61498,
+   "lng": 64.39281,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390801",
+   "area_fa": "ناحیه ۸",
+   "sub_fa": "",
+   "lat": 31.58554,
+   "lng": 64.40324,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "390901",
+   "area_fa": "ناحیه ۹",
+   "sub_fa": "",
+   "lat": 31.52415,
+   "lng": 64.30395,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391001",
+   "area_fa": "ناحیه ۱۰",
+   "sub_fa": "",
+   "lat": 31.68038,
+   "lng": 64.34587,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391101",
+   "area_fa": "ناحیه ۱۱",
+   "sub_fa": "",
+   "lat": 31.49746,
+   "lng": 64.35956,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391201",
+   "area_fa": "ناحیه ۱۲",
+   "sub_fa": "",
+   "lat": 31.65718,
+   "lng": 64.39903,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391301",
+   "area_fa": "ناحیه ۱۳",
+   "sub_fa": "",
+   "lat": 31.64033,
+   "lng": 64.38006,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391401",
+   "area_fa": "ناحیه ۱۴",
+   "sub_fa": "",
+   "lat": 31.60586,
+   "lng": 64.45544,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391501",
+   "area_fa": "ناحیه ۱۵",
+   "sub_fa": "",
+   "lat": 31.57528,
+   "lng": 64.43204,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391601",
+   "area_fa": "ناحیه ۱۶",
+   "sub_fa": "",
+   "lat": 31.62534,
+   "lng": 64.48541,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "391701",
+   "area_fa": "لشکرگاه",
+   "sub_fa": "",
+   "lat": 31.39834,
+   "lng": 64.54323,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395101",
+   "area_fa": "دیشو",
+   "sub_fa": "ولسوالی",
+   "lat": 30.26141,
+   "lng": 63.3154,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395201",
+   "area_fa": "ریگ خان نشین",
+   "sub_fa": "ولسوالی",
+   "lat": 30.84625,
+   "lng": 63.49377,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395301",
+   "area_fa": "گرم سیر",
+   "sub_fa": "ولسوالی",
+   "lat": 30.64204,
+   "lng": 64.25133,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395401",
+   "area_fa": "ناوه بارکزائی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.33755,
+   "lng": 64.21896,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395501",
+   "area_fa": "نهر سراج",
+   "sub_fa": "ولسوالی",
+   "lat": 31.70191,
+   "lng": 64.593,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395601",
+   "area_fa": "سنگین",
+   "sub_fa": "ولسوالی",
+   "lat": 32.03987,
+   "lng": 64.96245,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395701",
+   "area_fa": "کجکی",
+   "sub_fa": "ولسوالی",
+   "lat": 32.53243,
+   "lng": 65.02163,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395801",
+   "area_fa": "باغران",
+   "sub_fa": "ولسوالی",
+   "lat": 33.15478,
+   "lng": 65.09439,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "395901",
+   "area_fa": "موسی قلعه",
+   "sub_fa": "ولسوالی",
+   "lat": 32.36338,
+   "lng": 64.77353,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396001",
+   "area_fa": "نوزاد",
+   "sub_fa": "ولسوالی",
+   "lat": 32.63021,
+   "lng": 64.48826,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396101",
+   "area_fa": "نادعلی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.70161,
+   "lng": 63.74207,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396201",
+   "area_fa": "واشیر",
+   "sub_fa": "ولسوالی",
+   "lat": 32.10025,
+   "lng": 63.95404,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396301",
+   "area_fa": "نادعلی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.44725,
+   "lng": 63.81844,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396401",
+   "area_fa": "باغران",
+   "sub_fa": "ولسوالی",
+   "lat": 33.46953,
+   "lng": 65.54099,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396501",
+   "area_fa": "باغران",
+   "sub_fa": "ولسوالی",
+   "lat": 32.76542,
+   "lng": 65.05595,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396601",
+   "area_fa": "نهر سراج",
+   "sub_fa": "ولسوالی",
+   "lat": 31.90394,
+   "lng": 64.42732,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396701",
+   "area_fa": "دیشو",
+   "sub_fa": "ولسوالی",
+   "lat": 29.7835,
+   "lng": 63.60081,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "396801",
+   "area_fa": "نهر سراج",
+   "sub_fa": "ولسوالی",
+   "lat": 31.89518,
+   "lng": 64.69008,
+   "province_code": "39",
+   "province_fa": "هلمند",
+   "province_slug": "helmand"
+  },
+  {
+   "code": "400101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 32.08954,
+   "lng": 66.89867,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "400201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 32.10894,
+   "lng": 66.92338,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "400301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 32.13746,
+   "lng": 66.91355,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "400401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 32.1134,
+   "lng": 66.88109,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "400501",
+   "area_fa": "قلات",
+   "sub_fa": "",
+   "lat": 32.21141,
+   "lng": 66.99391,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405101",
+   "area_fa": "ترنک و جلدک",
+   "sub_fa": "ولسوالی",
+   "lat": 31.91293,
+   "lng": 66.51708,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405201",
+   "area_fa": "میزان",
+   "sub_fa": "ولسوالی",
+   "lat": 32.18058,
+   "lng": 66.50187,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405301",
+   "area_fa": "کاکړ",
+   "sub_fa": "ولسوالی",
+   "lat": 32.85113,
+   "lng": 67.17337,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405401",
+   "area_fa": "دای چوپان",
+   "sub_fa": "ولسوالی",
+   "lat": 32.61203,
+   "lng": 66.7029,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405501",
+   "area_fa": "ارغنداب",
+   "sub_fa": "ولسوالی",
+   "lat": 32.50658,
+   "lng": 66.96402,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405601",
+   "area_fa": "شاه جوی",
+   "sub_fa": "ولسوالی",
+   "lat": 32.49121,
+   "lng": 67.39542,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405701",
+   "area_fa": "شملزائی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.8161,
+   "lng": 67.75717,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405801",
+   "area_fa": "شینکی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.94637,
+   "lng": 67.26202,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "405901",
+   "area_fa": "نوبهار",
+   "sub_fa": "ولسوالی",
+   "lat": 32.20236,
+   "lng": 67.56802,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "406001",
+   "area_fa": "اتغر",
+   "sub_fa": "ولسوالی",
+   "lat": 31.74129,
+   "lng": 67.37197,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "406101",
+   "area_fa": "شینکی",
+   "sub_fa": "ولسوالی",
+   "lat": 31.91147,
+   "lng": 66.94756,
+   "province_code": "40",
+   "province_fa": "زابل",
+   "province_slug": "zabul"
+  },
+  {
+   "code": "410101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 32.62616,
+   "lng": 65.8646,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "410201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 32.60562,
+   "lng": 65.86958,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "410301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 32.62837,
+   "lng": 65.88106,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "410401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 32.61164,
+   "lng": 65.89147,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "410501",
+   "area_fa": "ترینکوت",
+   "sub_fa": "",
+   "lat": 32.66669,
+   "lng": 65.89442,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "415101",
+   "area_fa": "خاص ارزگان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.00991,
+   "lng": 66.73023,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "415201",
+   "area_fa": "چوره",
+   "sub_fa": "ولسوالی",
+   "lat": 32.99058,
+   "lng": 66.22376,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "415301",
+   "area_fa": "شهید حساس",
+   "sub_fa": "ولسوالی",
+   "lat": 32.9434,
+   "lng": 65.53956,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "415401",
+   "area_fa": "دهراود",
+   "sub_fa": "ولسوالی",
+   "lat": 32.62737,
+   "lng": 65.49095,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "415501",
+   "area_fa": "چنارتو",
+   "sub_fa": "ولسوالی",
+   "lat": 32.72733,
+   "lng": 66.33282,
+   "province_code": "41",
+   "province_fa": "ارزگان",
+   "province_slug": "uruzgan"
+  },
+  {
+   "code": "420101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 33.70441,
+   "lng": 66.14988,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "420201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 33.75194,
+   "lng": 66.16234,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "420301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 33.81069,
+   "lng": 66.16301,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "420401",
+   "area_fa": "نیلی",
+   "sub_fa": "",
+   "lat": 33.76604,
+   "lng": 66.02516,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425101",
+   "area_fa": "کجران",
+   "sub_fa": "ولسوالی",
+   "lat": 33.21418,
+   "lng": 65.59885,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425201",
+   "area_fa": "گیزاب",
+   "sub_fa": "ولسوالی",
+   "lat": 33.3522,
+   "lng": 66.45978,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425301",
+   "area_fa": "شهرستان",
+   "sub_fa": "ولسوالی",
+   "lat": 33.69663,
+   "lng": 66.48973,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425401",
+   "area_fa": "میرامور",
+   "sub_fa": "ولسوالی",
+   "lat": 33.81354,
+   "lng": 66.96127,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425501",
+   "area_fa": "اشترلی",
+   "sub_fa": "ولسوالی",
+   "lat": 34.07571,
+   "lng": 66.32132,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425601",
+   "area_fa": "سنگ تخت",
+   "sub_fa": "ولسوالی",
+   "lat": 34.19626,
+   "lng": 65.91659,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425701",
+   "area_fa": "خدیر",
+   "sub_fa": "ولسوالی",
+   "lat": 33.89116,
+   "lng": 65.76422,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425801",
+   "area_fa": "کیتی",
+   "sub_fa": "ولسوالی",
+   "lat": 33.5125,
+   "lng": 65.76355,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "425901",
+   "area_fa": "پاتو",
+   "sub_fa": "ولسوالی",
+   "lat": 33.39424,
+   "lng": 66.01655,
+   "province_code": "42",
+   "province_fa": "دایکندی",
+   "province_slug": "daykundi"
+  },
+  {
+   "code": "430101",
+   "area_fa": "ناحیه ۱",
+   "sub_fa": "",
+   "lat": 30.97374,
+   "lng": 61.85182,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "430201",
+   "area_fa": "ناحیه ۲",
+   "sub_fa": "",
+   "lat": 30.93934,
+   "lng": 61.84476,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "430301",
+   "area_fa": "ناحیه ۳",
+   "sub_fa": "",
+   "lat": 30.95082,
+   "lng": 61.88854,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "430401",
+   "area_fa": "ناحیه ۴",
+   "sub_fa": "",
+   "lat": 30.97834,
+   "lng": 61.88402,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "430501",
+   "area_fa": "زرنج",
+   "sub_fa": "",
+   "lat": 30.88992,
+   "lng": 62.03142,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "435101",
+   "area_fa": "چاربرجک",
+   "sub_fa": "ولسوالی",
+   "lat": 30.16277,
+   "lng": 62.08702,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "435201",
+   "area_fa": "خاش رود",
+   "sub_fa": "ولسوالی",
+   "lat": 31.6156,
+   "lng": 62.79425,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "435301",
+   "area_fa": "چخانسور",
+   "sub_fa": "ولسوالی",
+   "lat": 31.32914,
+   "lng": 62.42216,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "435401",
+   "area_fa": "کنگ",
+   "sub_fa": "ولسوالی",
+   "lat": 31.33007,
+   "lng": 61.80386,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  },
+  {
+   "code": "435501",
+   "area_fa": "خاش رود",
+   "sub_fa": "ولسوالی",
+   "lat": 31.97808,
+   "lng": 63.2406,
+   "province_code": "43",
+   "province_fa": "نیمروز",
+   "province_slug": "nimroz"
+  }
+ ]
+}

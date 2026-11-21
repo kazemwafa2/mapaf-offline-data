@@ -1,0 +1,50 @@
+{
+ "source": "https://map.af/about",
+ "stats": {
+  "registered_places": 129736,
+  "buildings_on_map": 9884000,
+  "buildings_with_address": 7582000,
+  "named_streets": 57317,
+  "postal_codes": 1408,
+  "provinces": 34
+ },
+ "basemap": {
+  "file": "af.pmtiles",
+  "format": "PMTiles v3 (MVT, gzip)",
+  "schema": "OpenMapTiles v3.14 (Planetiler 0.7.0)",
+  "minzoom": 0,
+  "maxzoom": 14,
+  "bounds": [
+   60.4876,
+   29.3686,
+   74.9002,
+   38.5067
+  ],
+  "center": [
+   67.0,
+   33.0,
+   5
+  ],
+  "osm_snapshot": "2026-08-06",
+  "online_url": "https://tiles.map.af/basemap/af.pmtiles"
+ },
+ "apis": {
+  "token": "GET https://map.af/api/token -> {token, ttl:600}",
+  "search": "GET https://map.af/api/search?q=...  header X-Mapaf-Token",
+  "address_at": "GET https://map.af/api/address/at?lat=..&lng=..  header X-Mapaf-Token",
+  "directions": "GET https://map.af/api/directions?from=lat,lng&to=lat,lng&costing=auto|pedestrian  header X-Mapaf-Token (Valhalla style)",
+  "places_tiles": "https://tiles.map.af/places/{z}/{x}/{y}.mvt?tk=TOKEN",
+  "weather": "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=..&lon=.. (free, needs User-Agent)"
+ },
+ "scraped_postal_codes_with_coords": 699,
+ "attribution": {
+  "map_af": "map.af — خدمات آنلاین غنچه (Ghoncha Online Services)",
+  "osm": "© OpenStreetMap contributors (ODbL)",
+  "openmaptiles": "© OpenMapTiles",
+  "microsoft": "Microsoft Building Footprints (ODbL)",
+  "geonames": "GeoNames (CC BY 4.0)",
+  "geoboundaries": "geoBoundaries gbOpen AFG ADM1 (CC BY 4.0)",
+  "afghanistan_post": "کدهای پستی پست افغانستان — از طریق map.af/postcodes",
+  "met_norway": "MET Norway Locationforecast 2.0"
+ }
+}

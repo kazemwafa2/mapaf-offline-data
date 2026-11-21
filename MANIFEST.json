@@ -1,0 +1,51 @@
+{
+ "package": "mapaf-offline",
+ "version": "1.1.0",
+ "released": "2026-11-21",
+ "osm_snapshot": "2026-08-06",
+ "basemap_format": "PMTiles v3 (MVT/OpenMapTiles v3.14, zoom 0-14)",
+ "total_bytes": 214737661,
+ "notes": "بسته آفلاین نقشه افغانستان برای برنامه نقشه افغانستان (map.af) — شامل نقشه کامل کشور (۱۳۰ مگابایت) و مجموعه داده‌های ولایات، کدهای پستی و مکان‌ها. منابع: OpenStreetMap (ODbL)، OpenMapTiles، Microsoft (ODbL)، GeoNames (CC BY 4.0)، پست افغانستان از طریق map.af، geoBoundaries (CC BY 4.0).",
+ "files": [
+  {
+   "name": "af.pmtiles",
+   "size": 136037965,
+   "sha256": "d3388e4cf2617c4fb269ec9fe40a4f08b85cb5aca4ac2e93202bc59f11cb93e9"
+  },
+  {
+   "name": "routing_graph.bin",
+   "size": 58453352,
+   "sha256": "6a9b325284bd4d9a4fcd141f336908aa64248b9147eddcfa9ecafaac7df88c35"
+  },
+  {
+   "name": "search_index.db",
+   "size": 14557184,
+   "sha256": "04bf3af23a3672abe89201ac049d8de3cf0c89fb741a533092fd81fdd26ac1fa"
+  },
+  {
+   "name": "registered_places.db",
+   "size": 131072,
+   "sha256": "93df5c9324ae735136ae034565c153e7952e62b74d44b648e75514eb6da977ec"
+  },
+  {
+   "name": "provinces.geojson",
+   "size": 177808,
+   "sha256": "1b74d5878180cc3aceae3bf2abbe12e887f3aec57c84d43091680ca6e4479156"
+  },
+  {
+   "name": "postal_codes.json",
+   "size": 154554,
+   "sha256": "ea46f3dc3d57d38e577975bf90605655196339f0cac41ee6e6797149eadc02f3"
+  },
+  {
+   "name": "places.json",
+   "size": 5224027,
+   "sha256": "99db97d080179dd8cdff140fd8189f483ff5a074379f501f18772ecd43be4fad"
+  },
+  {
+   "name": "summary.json",
+   "size": 1699,
+   "sha256": "e8f04df04e496a81f677a13043f598c4ecda00fdb1fc884650fe841f07efd344"
+  }
+ ]
+}
